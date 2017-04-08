@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html>
-       <head><meta http-equiv="Content-Type" content="text/html" charset="utf-8"/></head>
-<body>
+       <head><meta http-equiv="Content-Type" content="text/html" charset="utf-8"/></head
 南台灣16張麻將 <p>
 防止老年痴呆症.<p>
 絕對沒有廣告<p>
@@ -91,4 +88,3 @@ External dependencies
 1. hand.js: https://github.com/deltakosh/handjs
 2. Babylon.js: https://github.com/BabylonJS/Babylon.js
 </body>
-</html>
