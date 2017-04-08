@@ -1,9 +1,7 @@
 <!DOCTYPE html>
-<head>
-    <meta http-equiv="Content-Type" content="text/html" charset="utf-8"/>
-</head>
+<html>
+       <head><meta http-equiv="Content-Type" content="text/html" charset="utf-8"/></head>
 <body>
-
 南台灣16張麻將 <p>
 防止老年痴呆症.<p>
 絕對沒有廣告<p>
