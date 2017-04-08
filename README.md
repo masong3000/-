@@ -1,5 +1,9 @@
-台灣16張麻將,<p>
-純粹自己玩的.
+台灣南部16張麻將,防止老年痴呆症.<p>
+絕對沒有廣告.
+純粹自己玩.<p>
+不可用於商業用途.<p>
+http://masong3000.github.io/mj
+
 使用:
 1. hand.js: https://github.com/deltakosh/handjs
 2. Babylon.js: https://github.com/BabylonJS/Babylon.js
